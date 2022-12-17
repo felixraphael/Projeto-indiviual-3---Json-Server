@@ -1,0 +1,128 @@
+{
+    "Clientes": [
+      {
+        "id": 1,
+        "nome": "Alex",
+        "idade": 21,
+        "telefone": 21987654321,
+        "assistido": {
+          "romance": "Comer, Rezar e Amar"
+        }
+      },
+      {
+        "id": 2,
+        "nome": "Julia",
+        "idade": 25,
+        "telefone": 21987654321,
+        "assistido": {
+          "terror": "Corra",
+          "romance": "Comer, Rezar e Amar"
+        }
+      },
+      {
+        "id": 3,
+        "nome": "Mateus",
+        "idade": 26,
+        "telefone": 21987654321,
+        "assistido": {
+          "ficcao": "Interrestelar"
+        }
+      },
+      {
+        "id": 4,
+        "nome": "Maria",
+        "idade": 19,
+        "telefone": 21987654321,
+        "assistido": {
+          "terror": "Corra"
+        }
+      },
+      {
+        "id": 5,
+        "nome": "Julia",
+        "idade": 21,
+        "telefone": 21987654321,
+        "assistido": {
+          "romance": "Comer, Rezar e Amar"
+        }
+      }
+    ],
+    "Filmes": [
+      {
+        "id": 1,
+        "nome": "Comer, Rezar e Amar",
+        "categoria": "Romance",
+        "classificacao": "16"
+      },
+      {
+        "id": 2,
+        "nome": "Corra",
+        "categoria": "Terror",
+        "classificacao": "16"
+      },
+      {
+        "id": 3,
+        "nome": "Interrestelar",
+        "categoria": "Ficcao",
+        "classificacao": "16"
+      },
+      {
+        "id": 4,
+        "nome": "Deadpool",
+        "categoria": "Comedia",
+        "classificacao": "18"
+      }
+    ],
+    "Sala": [
+      {
+        "id": 1,
+        "capacidade": 250,
+        "filme": "Deadpool",
+        "horario": "10am"
+      },
+      {
+        "id": 2,
+        "capacidade": 350,
+        "filme": "Interrestelar",
+        "horario": "12am"
+      },
+      {
+        "id": 3,
+        "capacidade": 250,
+        "filme": "Corra",
+        "horario": "14pm"
+      },
+      {
+        "id": 4,
+        "capacidade": 250,
+        "filme": "Comer, Rezar e Amar",
+        "horario": "10am"
+      }
+    ],
+    "Aluguel": [
+      {
+        "id": 1,
+        "capacidade": 250,
+        "numero": 2,
+        "preco": 2000
+      },
+      {
+        "id": 2,
+        "capacidade": 350,
+        "numero": 1,
+        "preco": 3100
+      },
+      {
+        "id": 3,
+        "capacidade": 250,
+        "numero": 3,
+        "preco": 2000
+      },
+      {
+        "id": 4,
+        "capacidade": 250,
+        "numero": 4,
+        "preco": 2000
+      }
+    ]
+  }
