@@ -6,7 +6,8 @@
         "idade": 21,
         "telefone": 21987654321,
         "assistido": {
-          "romance": "Comer, Rezar e Amar"
+          "romance": "Comer, Rezar e Amar",
+           "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/comer.webp"
         }
       },
       {
@@ -16,7 +17,9 @@
         "telefone": 21987654321,
         "assistido": {
           "terror": "Corra",
-          "romance": "Comer, Rezar e Amar"
+           "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/corra.jpg",
+          "romance": "Comer, Rezar e Amar",
+           "poster2": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/comer.webp"
         }
       },
       {
@@ -25,7 +28,8 @@
         "idade": 26,
         "telefone": 21987654321,
         "assistido": {
-          "ficcao": "Interrestelar"
+          "ficcao": "Interrestelar",
+            "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/inter.jpg",
         }
       },
       {
@@ -34,7 +38,8 @@
         "idade": 19,
         "telefone": 21987654321,
         "assistido": {
-          "terror": "Corra"
+          "terror": "Corra",
+           "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/corra.jpg"
         }
       },
       {
@@ -43,7 +48,8 @@
         "idade": 21,
         "telefone": 21987654321,
         "assistido": {
-          "romance": "Comer, Rezar e Amar"
+          "romance": "Comer, Rezar e Amar",
+           "poster2": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/comer.webp"
         }
       }
     ],
