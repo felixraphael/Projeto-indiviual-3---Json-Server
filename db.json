@@ -21,7 +21,8 @@
            "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/corra.jpg",
           "romance": "Comer, Rezar e Amar",
            "poster2": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/comer.webp"
-        }
+        },
+          "comentario": "oii"
       },
       {
         "id": 3,
@@ -31,7 +32,8 @@
         "assistido": {
           "ficcao": "Interrestelar",
             "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/inter.jpg"
-        }
+        },
+          "comentario": "oii"
       },
       {
         "id": 4,
@@ -41,7 +43,8 @@
         "assistido": {
           "terror": "Corra",
            "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/corra.jpg"
-        }
+        },
+          "comentario": "oii"
       },
       {
         "id": 5,
@@ -51,7 +54,8 @@
         "assistido": {
           "romance": "Comer, Rezar e Amar",
            "poster2": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/comer.webp"
-        }
+        },
+          "comentario": "oii"
       }
     ],
     "Filmes": [
