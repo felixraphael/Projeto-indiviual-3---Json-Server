@@ -8,7 +8,8 @@
         "assistido": {
           "romance": "Comer, Rezar e Amar",
            "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/comer.webp"
-        }
+        },
+          "comentario": "oii"
       },
       {
         "id": 2,
