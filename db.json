@@ -5,57 +5,45 @@
         "nome": "Alex",
         "idade": 21,
         "telefone": 21987654321,
-        "assistido": {
-          "romance": "Comer, Rezar e Amar",
-           "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/comer.webp"
-        },
-          "comentario": "oii"
+        "assistido": "Comer, Rezar e Amar",
+        "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/comer.webp",
+        "comentario": "oii"
       },
       {
         "id": 2,
         "nome": "Julia",
         "idade": 25,
         "telefone": 21987654321,
-        "assistido": {
-          "terror": "Corra",
-           "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/corra.jpg",
-          "romance": "Comer, Rezar e Amar",
-           "poster2": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/comer.webp"
-        },
-          "comentario": "oii"
+        "assistido": "Corra",
+        "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/corra.jpg",
+        "comentario": "oii"
       },
       {
         "id": 3,
         "nome": "Mateus",
         "idade": 26,
         "telefone": 21987654321,
-        "assistido": {
-          "ficcao": "Interrestelar",
-            "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/inter.jpg"
-        },
-          "comentario": "oii"
+        "assistido": "Interrestelar",
+        "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/inter.jpg",
+        "comentario": "oii"
       },
       {
         "id": 4,
         "nome": "Maria",
         "idade": 19,
         "telefone": 21987654321,
-        "assistido": {
-          "terror": "Corra",
-           "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/corra.jpg"
-        },
-          "comentario": "oii"
+        "assistido": "Corra",
+        "poster": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/corra.jpg",
+        "comentario": "oii"
       },
       {
         "id": 5,
         "nome": "Julia",
         "idade": 21,
         "telefone": 21987654321,
-        "assistido": {
-          "romance": "Comer, Rezar e Amar",
-           "poster2": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/comer.webp"
-        },
-          "comentario": "oii"
+        "assistido": "Comer, Rezar e Amar",
+        "poster2": "https://raw.githubusercontent.com/felixraphael/Projeto-indiviual-3---Json-Server/main/image/comer.webp",
+        "comentario": "oii"
       }
     ],
     "Filmes": [
